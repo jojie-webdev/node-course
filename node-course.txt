@@ -1,0 +1,10 @@
+Module System
+ - fs.writeFileSync()
+ - fs.appendFileSync()
+ - modue.exports()
+ - npm modules
+	- validator
+	- chalk
+ - Global npm Modules and nodemon
+	- npm modules
+		- nodemon (npm i nodemon -g)
