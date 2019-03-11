@@ -8,3 +8,13 @@ Module System
  - Global npm Modules and nodemon
 	- npm modules
 		- nodemon (npm i nodemon -g)
+
+- Process.argv[]
+- Arguments parsing argv using yargs lib.
+- storing data with JSON (JSON.stringify & JSON.parse) 
+	- dataBuffer.toString()
+- Adding Note & delete nodemon
+- Arrow functions
+- Refactor arrow functions
+- listing notes
+- search by title
