@@ -18,3 +18,9 @@ Module System
 - Refactor arrow functions
 - listing notes
 - search by title
+- debugging 
+
+WEATHER APP.
+ - Http request darksky api
+ - Geocoding (mapbox.com)
+
