@@ -30,3 +30,6 @@ WEATHER APP.
 
 WEB SERVER
  - express
+ - static pages
+ - Dynamic Pages with templating
+ - using handlebars module (view engine - hbs library)
