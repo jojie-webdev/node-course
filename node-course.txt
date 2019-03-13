@@ -33,3 +33,5 @@ WEB SERVER
  - static pages
  - Dynamic Pages with templating
  - using handlebars module (view engine - hbs library)
+ - for nodemon should watch JS and hbs - nodemon src/app.js -e js,hbs
+ - 404 page using wildcard character (*) provided by express
