@@ -23,4 +23,7 @@ Module System
 WEATHER APP.
  - Http request darksky api
  - Geocoding (mapbox.com)
-
+ - Handling Errors
+ - Callback
+ - callback chaining 
+ - Objects destructuring
